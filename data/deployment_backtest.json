@@ -1,0 +1,155 @@
+{
+  "n_windows": 19,
+  "n_cells": 1500,
+  "horizon_days": 7,
+  "reach_degrees": 0.003,
+  "default_teams": 12,
+  "overall": [
+    {
+      "teams": 4,
+      "forecast": 0.2275560874687998,
+      "status_quo": 0.2167744628692928,
+      "oracle": 0.24913480799449117,
+      "forecast_uplift": 0.01078162459950699,
+      "headroom_captured": 0.3331739682563382
+    },
+    {
+      "teams": 8,
+      "forecast": 0.3283727404318358,
+      "status_quo": 0.32430460892225565,
+      "oracle": 0.36011376506403875,
+      "forecast_uplift": 0.004068131509580131,
+      "headroom_captured": 0.11360590273260655
+    },
+    {
+      "teams": 12,
+      "forecast": 0.40741508258016484,
+      "status_quo": 0.386131426221446,
+      "oracle": 0.43949315265605327,
+      "forecast_uplift": 0.021283656358718872,
+      "headroom_captured": 0.3988562173827183
+    },
+    {
+      "teams": 16,
+      "forecast": 0.45482111918298823,
+      "status_quo": 0.4287457105360533,
+      "oracle": 0.5007014933385348,
+      "forecast_uplift": 0.026075408646934917,
+      "headroom_captured": 0.3623810016564185
+    },
+    {
+      "teams": 20,
+      "forecast": 0.4974327495223598,
+      "status_quo": 0.47305513996826976,
+      "oracle": 0.5488111219908062,
+      "forecast_uplift": 0.02437760955409002,
+      "headroom_captured": 0.3217912157331417
+    },
+    {
+      "teams": 24,
+      "forecast": 0.530484748514075,
+      "status_quo": 0.5102841697241131,
+      "oracle": 0.5885540748897352,
+      "forecast_uplift": 0.020200578789961954,
+      "headroom_captured": 0.25808870915605103
+    },
+    {
+      "teams": 28,
+      "forecast": 0.5589554592182762,
+      "status_quo": 0.5439727871041549,
+      "oracle": 0.6232833925046419,
+      "forecast_uplift": 0.014982672114121298,
+      "headroom_captured": 0.18891133207803362
+    },
+    {
+      "teams": 32,
+      "forecast": 0.5872544112958407,
+      "status_quo": 0.5717076439606515,
+      "oracle": 0.6537559377519708,
+      "forecast_uplift": 0.015546767335189116,
+      "headroom_captured": 0.18948312776290743
+    },
+    {
+      "teams": 40,
+      "forecast": 0.6369114110344335,
+      "status_quo": 0.6142311378529197,
+      "oracle": 0.7061772315125716,
+      "forecast_uplift": 0.022680273181513777,
+      "headroom_captured": 0.246669241495644
+    }
+  ],
+  "volatile": [
+    {
+      "teams": 4,
+      "forecast": 0.2856323954306151,
+      "status_quo": 0.27176094839447423,
+      "oracle": 0.3149249867389077,
+      "forecast_uplift": 0.01387144703614085,
+      "headroom_captured": 0.3213658306354867
+    },
+    {
+      "teams": 8,
+      "forecast": 0.40980211684578344,
+      "status_quo": 0.40533363191705,
+      "oracle": 0.4524316960259488,
+      "forecast_uplift": 0.004468484928733418,
+      "headroom_captured": 0.09487619105535883
+    },
+    {
+      "teams": 12,
+      "forecast": 0.5061447369424921,
+      "status_quo": 0.47772506506819473,
+      "oracle": 0.5458013101627952,
+      "forecast_uplift": 0.028419671874297336,
+      "headroom_captured": 0.41746826422057565
+    },
+    {
+      "teams": 16,
+      "forecast": 0.5584356220144975,
+      "status_quo": 0.5266929378635005,
+      "oracle": 0.6164364438307913,
+      "forecast_uplift": 0.031742684150997014,
+      "headroom_captured": 0.3537045250111622
+    },
+    {
+      "teams": 20,
+      "forecast": 0.6028989741676732,
+      "status_quo": 0.5754431486129761,
+      "oracle": 0.6708851048820897,
+      "forecast_uplift": 0.027455825554697166,
+      "headroom_captured": 0.287670398092859
+    },
+    {
+      "teams": 24,
+      "forecast": 0.6369171268061588,
+      "status_quo": 0.6165322535916379,
+      "oracle": 0.7145235820820457,
+      "forecast_uplift": 0.02038487321452087,
+      "headroom_captured": 0.20802731760613194
+    },
+    {
+      "teams": 28,
+      "forecast": 0.666594850389581,
+      "status_quo": 0.6505089433569657,
+      "oracle": 0.7512239562837701,
+      "forecast_uplift": 0.016085907032615254,
+      "headroom_captured": 0.15971707261067267
+    },
+    {
+      "teams": 32,
+      "forecast": 0.69565055558556,
+      "status_quo": 0.6775569602062828,
+      "oracle": 0.7835714722934523,
+      "forecast_uplift": 0.01809359537927724,
+      "headroom_captured": 0.17067093007417644
+    },
+    {
+      "teams": 40,
+      "forecast": 0.7439311366332205,
+      "status_quo": 0.7175579918058295,
+      "oracle": 0.8370523390017057,
+      "forecast_uplift": 0.02637314482739106,
+      "headroom_captured": 0.22070621285674671
+    }
+  ]
+}

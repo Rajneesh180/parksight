@@ -1,0 +1,356 @@
+{
+  "teams": 12,
+  "reach": 0.003,
+  "total_enforced": 288500,
+  "unenforced_after_14h_share": 0.03332272277974166,
+  "global_peak_shift": "day_07_13",
+  "busy_cells": 300,
+  "peak_shift_differs_share": 0.33666666666666667,
+  "static_coverage": 0.35214904679376086,
+  "shift_aware_coverage": 0.36449913344887347,
+  "uplift": 0.012350086655112651,
+  "shifts": {
+    "night_00_06": {
+      "records": 120280,
+      "hours": "00:00-06:59",
+      "static_coverage": 0.3065014965081477,
+      "shift_aware_coverage": 0.3309361489857,
+      "top_cells": [
+        {
+          "cell": "12.934,77.691",
+          "latitude": 12.934,
+          "longitude": 77.691,
+          "volume": 2096
+        },
+        {
+          "cell": "12.964,77.577",
+          "latitude": 12.964,
+          "longitude": 77.577,
+          "volume": 2044
+        },
+        {
+          "cell": "12.933,77.691",
+          "latitude": 12.933,
+          "longitude": 77.691,
+          "volume": 1291
+        },
+        {
+          "cell": "12.977,77.576",
+          "latitude": 12.977,
+          "longitude": 77.576,
+          "volume": 1238
+        },
+        {
+          "cell": "13.035,77.589",
+          "latitude": 13.035,
+          "longitude": 77.589,
+          "volume": 1064
+        },
+        {
+          "cell": "12.974,77.545",
+          "latitude": 12.974,
+          "longitude": 77.545,
+          "volume": 965
+        },
+        {
+          "cell": "12.965,77.576",
+          "latitude": 12.965,
+          "longitude": 77.576,
+          "volume": 933
+        },
+        {
+          "cell": "12.973,77.579",
+          "latitude": 12.973,
+          "longitude": 77.579,
+          "volume": 851
+        },
+        {
+          "cell": "13.184,77.68",
+          "latitude": 13.184,
+          "longitude": 77.68,
+          "volume": 837
+        },
+        {
+          "cell": "13.008,77.695",
+          "latitude": 13.008,
+          "longitude": 77.695,
+          "volume": 751
+        },
+        {
+          "cell": "12.979,77.579",
+          "latitude": 12.979,
+          "longitude": 77.579,
+          "volume": 661
+        },
+        {
+          "cell": "12.979,77.578",
+          "latitude": 12.979,
+          "longitude": 77.578,
+          "volume": 661
+        }
+      ]
+    },
+    "day_07_13": {
+      "records": 168220,
+      "hours": "07:00-13:59",
+      "static_coverage": 0.38478777790987995,
+      "shift_aware_coverage": 0.3884972060397099,
+      "top_cells": [
+        {
+          "cell": "12.981,77.61",
+          "latitude": 12.981,
+          "longitude": 77.61,
+          "volume": 3797
+        },
+        {
+          "cell": "13.071,77.588",
+          "latitude": 13.071,
+          "longitude": 77.588,
+          "volume": 2828
+        },
+        {
+          "cell": "12.977,77.576",
+          "latitude": 12.977,
+          "longitude": 77.576,
+          "volume": 1890
+        },
+        {
+          "cell": "12.973,77.579",
+          "latitude": 12.973,
+          "longitude": 77.579,
+          "volume": 1473
+        },
+        {
+          "cell": "12.982,77.608",
+          "latitude": 12.982,
+          "longitude": 77.608,
+          "volume": 1281
+        },
+        {
+          "cell": "12.976,77.577",
+          "latitude": 12.976,
+          "longitude": 77.577,
+          "volume": 1271
+        },
+        {
+          "cell": "12.934,77.691",
+          "latitude": 12.934,
+          "longitude": 77.691,
+          "volume": 1237
+        },
+        {
+          "cell": "12.977,77.577",
+          "latitude": 12.977,
+          "longitude": 77.577,
+          "volume": 1233
+        },
+        {
+          "cell": "13.035,77.589",
+          "latitude": 13.035,
+          "longitude": 77.589,
+          "volume": 1158
+        },
+        {
+          "cell": "12.984,77.603",
+          "latitude": 12.984,
+          "longitude": 77.603,
+          "volume": 1108
+        },
+        {
+          "cell": "12.964,77.577",
+          "latitude": 12.964,
+          "longitude": 77.577,
+          "volume": 1087
+        },
+        {
+          "cell": "12.933,77.691",
+          "latitude": 12.933,
+          "longitude": 77.691,
+          "volume": 1082
+        }
+      ]
+    }
+  },
+  "forecast": {
+    "night_00_06": {
+      "plan": [
+        "12.978,77.577",
+        "12.963,77.577",
+        "13.008,77.695",
+        "13.01,77.554",
+        "12.999,77.551",
+        "12.975,77.579",
+        "12.979,77.573",
+        "13.0,77.677",
+        "12.992,77.555",
+        "12.981,77.609",
+        "12.935,77.691",
+        "13.186,77.68"
+      ],
+      "top_cells": [
+        {
+          "cell": "12.964,77.577",
+          "latitude": 12.964,
+          "longitude": 77.577,
+          "forecast_intensity": 99.52748324778925
+        },
+        {
+          "cell": "13.008,77.695",
+          "latitude": 13.008,
+          "longitude": 77.695,
+          "forecast_intensity": 91.49365137707451
+        },
+        {
+          "cell": "12.977,77.576",
+          "latitude": 12.977,
+          "longitude": 77.576,
+          "forecast_intensity": 52.913212924967034
+        },
+        {
+          "cell": "12.979,77.579",
+          "latitude": 12.979,
+          "longitude": 77.579,
+          "forecast_intensity": 46.204821594622956
+        },
+        {
+          "cell": "12.979,77.578",
+          "latitude": 12.979,
+          "longitude": 77.578,
+          "forecast_intensity": 44.320427535189246
+        },
+        {
+          "cell": "12.977,77.577",
+          "latitude": 12.977,
+          "longitude": 77.577,
+          "forecast_intensity": 43.397564593154485
+        },
+        {
+          "cell": "12.939,77.584",
+          "latitude": 12.939,
+          "longitude": 77.584,
+          "forecast_intensity": 41.9843983087014
+        },
+        {
+          "cell": "13.008,77.696",
+          "latitude": 13.008,
+          "longitude": 77.696,
+          "forecast_intensity": 40.38884003308355
+        },
+        {
+          "cell": "12.978,77.574",
+          "latitude": 12.978,
+          "longitude": 77.574,
+          "forecast_intensity": 38.68301337105887
+        },
+        {
+          "cell": "12.978,77.577",
+          "latitude": 12.978,
+          "longitude": 77.577,
+          "forecast_intensity": 35.38393077850342
+        },
+        {
+          "cell": "12.98,77.575",
+          "latitude": 12.98,
+          "longitude": 77.575,
+          "forecast_intensity": 34.20011314920102
+        },
+        {
+          "cell": "13.184,77.68",
+          "latitude": 13.184,
+          "longitude": 77.68,
+          "forecast_intensity": 33.94574696980864
+        }
+      ]
+    },
+    "day_07_13": {
+      "plan": [
+        "12.981,77.609",
+        "12.978,77.577",
+        "13.01,77.554",
+        "12.999,77.551",
+        "12.963,77.578",
+        "12.975,77.578",
+        "13.072,77.589",
+        "13.008,77.695",
+        "12.999,77.57",
+        "12.964,77.583",
+        "12.842,77.646",
+        "12.968,77.576"
+      ],
+      "top_cells": [
+        {
+          "cell": "12.981,77.61",
+          "latitude": 12.981,
+          "longitude": 77.61,
+          "forecast_intensity": 209.67354521035404
+        },
+        {
+          "cell": "12.983,77.611",
+          "latitude": 12.983,
+          "longitude": 77.611,
+          "forecast_intensity": 110.59771726350233
+        },
+        {
+          "cell": "13.071,77.588",
+          "latitude": 13.071,
+          "longitude": 77.588,
+          "forecast_intensity": 91.0832485518142
+        },
+        {
+          "cell": "12.977,77.577",
+          "latitude": 12.977,
+          "longitude": 77.577,
+          "forecast_intensity": 83.21803599278302
+        },
+        {
+          "cell": "12.977,77.576",
+          "latitude": 12.977,
+          "longitude": 77.576,
+          "forecast_intensity": 80.78026852034547
+        },
+        {
+          "cell": "13.008,77.695",
+          "latitude": 13.008,
+          "longitude": 77.695,
+          "forecast_intensity": 60.427231801636424
+        },
+        {
+          "cell": "12.98,77.607",
+          "latitude": 12.98,
+          "longitude": 77.607,
+          "forecast_intensity": 55.11806649872751
+        },
+        {
+          "cell": "12.964,77.577",
+          "latitude": 12.964,
+          "longitude": 77.577,
+          "forecast_intensity": 52.92875454517951
+        },
+        {
+          "cell": "13.0,77.55",
+          "latitude": 13.0,
+          "longitude": 77.55,
+          "forecast_intensity": 52.41598190799836
+        },
+        {
+          "cell": "13.011,77.555",
+          "latitude": 13.011,
+          "longitude": 77.555,
+          "forecast_intensity": 49.68450629978703
+        },
+        {
+          "cell": "12.982,77.61",
+          "latitude": 12.982,
+          "longitude": 77.61,
+          "forecast_intensity": 44.890322809634
+        },
+        {
+          "cell": "12.973,77.579",
+          "latitude": 12.973,
+          "longitude": 77.579,
+          "forecast_intensity": 43.90940132403743
+        }
+      ]
+    }
+  }
+}

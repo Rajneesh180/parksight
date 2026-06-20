@@ -1,0 +1,27 @@
+{
+  "scale": "sqrt(forecast+1)",
+  "n_windows": 19,
+  "n_cells": 1500,
+  "quantiles": {
+    "50": 1.0778243171926118,
+    "80": 2.430558551241852,
+    "90": 4.60742029261149
+  },
+  "calibration": [
+    {
+      "target": 0.5,
+      "empirical_coverage": 0.5001403508771931,
+      "median_width": 3.9459663355775136
+    },
+    {
+      "target": 0.8,
+      "empirical_coverage": 0.8001052631578948,
+      "median_width": 6.803879581973988
+    },
+    {
+      "target": 0.9,
+      "empirical_coverage": 0.8998245614035089,
+      "median_width": 10.788480468509833
+    }
+  ]
+}

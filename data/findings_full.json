@@ -1,0 +1,26 @@
+{
+  "rows": 298450,
+  "parking_share": 1.0,
+  "date_range": [
+    "2023-11-10",
+    "2024-04-08"
+  ],
+  "concentration": {
+    "cells": 7814,
+    "share_top_1pct": 0.330547830457363,
+    "share_top_5pct": 0.6352253308761937,
+    "share_top_10pct": 0.7719752052270062,
+    "gini": 0.839345610541419
+  },
+  "recidivism": {
+    "offenders": 231890,
+    "repeat_offenders": 35587,
+    "repeat_share": 0.3422583347294354,
+    "max_citations": 55
+  },
+  "churn": {
+    "emerging": 102,
+    "declining": 129,
+    "persistent": 1955
+  }
+}

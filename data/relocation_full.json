@@ -1,0 +1,13 @@
+{
+  "emerging_cells": 102,
+  "device_base_rate": 0.7540453074433657,
+  "observed_continuity": 0.8568471833177715,
+  "null_continuity": 0.7539503345782758,
+  "null_ci95": [
+    0.6913933629007158,
+    0.8120467631497045
+  ],
+  "lift": 0.10289684873949578,
+  "p_value": 0.0,
+  "genuine_emerging": 6
+}
